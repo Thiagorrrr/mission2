@@ -38,19 +38,19 @@
     src: local('URWClassico Bold Italic'), url('../fonts/URWClassico-BoldItalic.woff') format('woff');
 }
 
-.diamondStud__wrapper {
+#diamondStud-misssion-2 .diamondStud__wrapper {
     border-bottom: 0.5px solid #C1C1C1;
     padding-bottom: 40px;
 }
 
 @media screen and (min-width: 1200px) {
-    .diamondStud__wrapper {
+    #diamondStud-misssion-2 .diamondStud__wrapper {
         max-width: 949px;
         margin: 0 auto;
     }
 }
 
-.diamondStud__title {
+#diamondStud-misssion-2 .diamondStud__title {
     font-family: 'URWClassico';
     font-style: normal;
     font-weight: normal;
@@ -62,20 +62,20 @@
 }
 
 @media screen and (min-width: 768px) {
-    .diamondStud__title {
+    #diamondStud-misssion-2 .diamondStud__title {
         font-size: 32px;
         line-height: 43px;
     }
 }
 
 @media screen and (min-width: 1200px) {
-    .diamondStud__title {
+    #diamondStud-misssion-2 .diamondStud__title {
         font-size: 36px;
         line-height: 49px;
     }
 }
 
-.diamondStud__subtitle {
+#diamondStud-misssion-2 .diamondStud__subtitle {
     display: block;
     font-family: 'Avenir LT Std';
     font-style: normal;
@@ -91,38 +91,38 @@
 }
 
 @media screen and (min-width: 768px) {
-    .diamondStud__subtitle {
+    #diamondStud-misssion-2 .diamondStud__subtitle {
         font-size: 16px;
         line-height: 27px;
     }
 }
 
-.diamondStud__box-imgs {
+#diamondStud-misssion-2 .diamondStud__box-imgs {
     display: flex;
     justify-content: center;
     flex-direction: column;
 }
 
 @media screen and (min-width: 768px) {
-    .diamondStud__box-imgs {
+    #diamondStud-misssion-2 .diamondStud__box-imgs {
         padding-bottom: 40px;
         flex-direction: row;
     }
 }
 
-.diamondStud__img {
+#diamondStud-misssion-2 .diamondStud__img {
     padding-bottom: 30px;
     display: flex;
     justify-content: center;
 }
 
 @media screen and (min-width: 768px) {
-    .diamondStud__img {
+    #diamondStud-misssion-2 .diamondStud__img {
         padding-bottom: 0;
     }
 }
 
-.diamondStud__img img {
+#diamondStud-misssion-2 .diamondStud__img img {
     max-width: 100%;
 }
 
@@ -131,13 +131,13 @@
 
 
 @media screen and (min-width: 1200px) {
-    .listBeneficies__wrapper {
+    #diamondStud-misssion-2 .listBeneficies__wrapper {
         max-width: 949px;
         margin: 0 auto;
     }
 }
 
-.listBeneficies__list {
+#diamondStud-misssion-2 .listBeneficies__list {
     list-style: none;
     display: flex;
     flex-wrap: wrap;
@@ -146,7 +146,7 @@
 }
 
 @media screen and (min-width: 1200px) {
-    .listBeneficies__list {
+    #diamondStud-misssion-2 .listBeneficies__list {
         padding: 40px 0;
         flex-wrap: initial;
         margin: 0;
@@ -154,7 +154,7 @@
 }
 
 
-.listBeneficies__title {
+#diamondStud-misssion-2 .listBeneficies__title {
     font-family: Avenir;
     font-style: normal;
     font-weight: 500;
@@ -166,7 +166,7 @@
 }
 
 
-.listBeneficies__subtitle {
+#diamondStud-misssion-2 .listBeneficies__subtitle {
     font-family: Avenir;
     font-style: normal;
     font-weight: normal;
@@ -178,18 +178,18 @@
     color: #5C5C5C;
 }
 
-.listBeneficies__img {
+#diamondStud-misssion-2 .listBeneficies__img {
     display: flex;
     justify-content: center;
 }
 
-.listBeneficies__item {
+#diamondStud-misssion-2 .listBeneficies__item {
     width: 45%;
     padding-bottom: 10px;
 }
 
 @media screen and (min-width: 1200px) {
-    .listBeneficies__item {
+    #diamondStud-misssion-2 .listBeneficies__item {
         padding-bottom: 0;
     }
 }
@@ -197,45 +197,45 @@
 /* fim list beneficies */
 /* init 3 prong */
 
-.prongThree {
+#diamondStud-misssion-2 .prongThree {
     background-color: #F9F9F9;
 }
 
-.prongThree__container {
+#diamondStud-misssion-2 .prongThree__container {
     display: flex;
     flex-direction: column;
     position: relative;
 }
 
 @media screen and (min-width: 768px) {
-    .prongThree__container {
+    #diamondStud-misssion-2 .prongThree__container {
         display: flex;
         flex-direction: row;
         justify-content: center;
     }
 }
 
-.prongThree__wrapper {
+#diamondStud-misssion-2 .prongThree__wrapper {
     border-bottom: 0.5px solid #C1C1C1;
 }
 
 @media screen and (min-width: 1200px) {
-    .prongThree__wrapper {
+    #diamondStud-misssion-2 .prongThree__wrapper {
         max-width: 949px;
         margin: 0 auto;
     }
 }
 
 
-.prongThree__img img {
+#diamondStud-misssion-2 .prongThree__img img {
     max-width: 100%;
 }
 
-.prongThree__img.prongThree__img--low-price img {
+#diamondStud-misssion-2 .prongThree__img.prongThree__img--low-price img {
     max-width: initial;
 }
 
-.prongThree__box {
+#diamondStud-misssion-2 .prongThree__box {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -243,19 +243,19 @@
 }
 
 @media screen and (min-width: 768px) {
-    .prongThree__box {
+    #diamondStud-misssion-2 .prongThree__box {
         flex-direction: column;
         width: 50%;
     }
 }
 
 @media screen and (min-width: 1200px) {
-    .prongThree__box {
+    #diamondStud-misssion-2 .prongThree__box {
         flex-direction: row;
     }
 }
 
-.prongThree__title {
+#diamondStud-misssion-2 .prongThree__title {
     font-family: URWClassico;
     font-style: normal;
     font-weight: normal;
@@ -266,7 +266,7 @@
     color: #009457;
 }
 
-.prongThree__subtitle {
+#diamondStud-misssion-2 .prongThree__subtitle {
     font-family: Avenir;
     font-style: normal;
     font-weight: normal;
@@ -281,40 +281,40 @@
     color: #009457;
 }
 
-.prongThree__box-text {
+#diamondStud-misssion-2 .prongThree__box-text {
     width: 65%;
 }
 
 @media screen and (min-width: 768px) {
-    .prongThree__box-text {
+    #diamondStud-misssion-2 .prongThree__box-text {
         padding-bottom: 30px;
     }
 }
 
 
-.prongThree__link {
+#diamondStud-misssion-2 .prongThree__link {
     height: 100%;
     width: 100%;
     position: absolute;
     left: 0;
 }
 
-.prongThree__box-hover-img {
+#diamondStud-misssion-2 .prongThree__box-hover-img {
     max-width: 320px;
 }
 
-.prongThree__box-hover {
+#diamondStud-misssion-2 .prongThree__box-hover {
     display: none;
     position: absolute;
     top: -340px;
     box-shadow: 0px -20px 20px 0px rgb(0, 0, 0, 0.04)
 }
 
-.prongThree__list-item:hover .prongThree__box-hover {
+#diamondStud-misssion-2 .prongThree__list-item:hover .prongThree__box-hover {
     display: block;
 }
 
-.prongThree__list {
+#diamondStud-misssion-2 .prongThree__list {
     padding: 0;
     list-style: none;
     display: flex;
@@ -324,7 +324,7 @@
     padding: 20px 0;
 }
 
-.prongThree__list-item {
+#diamondStud-misssion-2 .prongThree__list-item {
     display: flex;
     cursor: pointer;
     flex-direction: column;
@@ -334,8 +334,8 @@
     position: relative;
 }
 
-.prongThree__list-price,
-.prongThree__list-title {
+#diamondStud-misssion-2 .prongThree__list-price,
+#diamondStud-misssion-2 .prongThree__list-title {
     font-family: Avenir;
     font-style: normal;
     font-weight: normal;
@@ -348,55 +348,55 @@
 /* fim prong 3 */
 /* init prong 4 */
 
-.prongFour {
+#diamondStud-misssion-2 .prongFour {
     background-color: #F9F9F9;
 }
 
-.prongFour__container {
+#diamondStud-misssion-2 .prongFour__container {
     display: flex;
     flex-direction: column;
     position: relative;
 }
 
 @media screen and (min-width: 768px) {
-    .prongFour__container {
+    #diamondStud-misssion-2 .prongFour__container {
         display: flex;
         flex-direction: row;
         justify-content: center;
     }
 }
 
-.prongFour__wrapper {
+#diamondStud-misssion-2 .prongFour__wrapper {
     border-bottom: 0.5px solid #C1C1C1;
 }
 
 @media screen and (min-width: 1200px) {
-    .prongFour__wrapper {
+    #diamondStud-misssion-2 .prongFour__wrapper {
         max-width: 949px;
         margin: 0 auto;
     }
 }
 
-.prongFour__wrapper:last-child {
+#diamondStud-misssion-2 .prongFour__wrapper:last-child {
     border-bottom: 0;
 }
 
-.prongFour__link {
+#diamondStud-misssion-2 .prongFour__link {
     height: 100%;
     width: 100%;
     position: absolute;
     left: 0;
 }
 
-.prongFour__img img {
+#diamondStud-misssion-2 .prongFour__img img {
     max-width: 100%;
 }
 
-.prongFour__img.prongFour__img--low-price img {
+#diamondStud-misssion-2 .prongFour__img.prongFour__img--low-price img {
     max-width: initial;
 }
 
-.prongFour__box {
+#diamondStud-misssion-2 .prongFour__box {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -404,19 +404,19 @@
 }
 
 @media screen and (min-width: 768px) {
-    .prongFour__box {
+    #diamondStud-misssion-2 .prongFour__box {
         flex-direction: column;
         width: 50%;
     }
 }
 
 @media screen and (min-width: 1200px) {
-    .prongFour__box {
+    #diamondStud-misssion-2 .prongFour__box {
         flex-direction: row;
     }
 }
 
-.prongFour__title {
+#diamondStud-misssion-2 .prongFour__title {
     font-family: URWClassico;
     font-style: normal;
     font-weight: normal;
@@ -427,7 +427,7 @@
     color: #000;
 }
 
-.prongFour__subtitle {
+#diamondStud-misssion-2 .prongFour__subtitle {
     font-family: Avenir;
     font-style: normal;
     font-weight: normal;
@@ -442,32 +442,32 @@
     color: #000;
 }
 
-.prongFour__box-text {
+#diamondStud-misssion-2 .prongFour__box-text {
     width: 65%;
 }
 
 @media screen and (min-width: 768px) {
-    .prongFour__box-text {
+    #diamondStud-misssion-2 .prongFour__box-text {
         padding-bottom: 30px;
     }
 }
 
-.prongFour__box-hover-img {
+#diamondStud-misssion-2 .prongFour__box-hover-img {
     max-width: 320px;
 }
 
-.prongFour__box-hover {
+#diamondStud-misssion-2 .prongFour__box-hover {
     display: none;
     position: absolute;
     top: -345px;
     box-shadow: 0px -20px 20px 0px rgb(0, 0, 0, 0.02)
 }
 
-.prongFour__list-item:hover .prongFour__box-hover {
+#diamondStud-misssion-2 .prongFour__list-item:hover .prongFour__box-hover {
     display: block;
 }
 
-.prongFour__list {
+#diamondStud-misssion-2 .prongFour__list {
     padding: 0;
     list-style: none;
     display: flex;
@@ -478,12 +478,12 @@
 }
 
 @media screen and (min-width: 1200px) {
-    .prongFour__list {
+    #diamondStud-misssion-2 .prongFour__list {
         max-width: 60%;
     }
 }
 
-.prongFour__list-item {
+#diamondStud-misssion-2 .prongFour__list-item {
     display: flex;
     cursor: pointer;
     position: relative;
@@ -493,8 +493,8 @@
     padding: 10px;
 }
 
-.prongFour__list-price,
-.prongFour__list-title {
+#diamondStud-misssion-2 .prongFour__list-price,
+#diamondStud-misssion-2 .prongFour__list-title {
     font-family: Avenir;
     font-style: normal;
     font-weight: normal;
@@ -507,18 +507,18 @@
 /* fim prong 4 */
 /* init prong 4  yellow */
 
-.prongFourYellow {
+#diamondStud-misssion-2 .prongFourYellow {
     background-color: #fff;
 }
 
-.prongFourYellow__container {
+#diamondStud-misssion-2 .prongFourYellow__container {
     display: flex;
     flex-direction: column;
     position: relative;
 }
 
 @media screen and (min-width: 768px) {
-    .prongFourYellow__container {
+    #diamondStud-misssion-2 .prongFourYellow__container {
         display: flex;
         flex-direction: row;
         justify-content: center;
@@ -526,43 +526,43 @@
 }
 
 @media screen and (min-width: 1200px) {
-    .prongFourYellow__container {
+    #diamondStud-misssion-2 .prongFourYellow__container {
         flex-direction: row-reverse;
         margin: 40px 0;
     }
 }
 
-.prongFourYellow__wrapper {
+#diamondStud-misssion-2 .prongFourYellow__wrapper {
     border-bottom: 0.5px solid #C1C1C1;
 }
 
 @media screen and (min-width: 1200px) {
-    .prongFourYellow__wrapper {
+    #diamondStud-misssion-2 .prongFourYellow__wrapper {
         max-width: 949px;
         margin: 0 auto;
     }
 }
 
-.prongFourYellow__wrapper:last-child {
+#diamondStud-misssion-2 .prongFourYellow__wrapper:last-child {
     border-bottom: 0;
 }
 
-.prongFourYellow__link {
+#diamondStud-misssion-2 .prongFourYellow__link {
     height: 100%;
     width: 100%;
     position: absolute;
     left: 0;
 }
 
-.prongFourYellow__img img {
+#diamondStud-misssion-2 .prongFourYellow__img img {
     max-width: 100%;
 }
 
-.prongFourYellow__img.prongFourYellow__img--low-price img {
+#diamondStud-misssion-2 .prongFourYellow__img.prongFourYellow__img--low-price img {
     max-width: initial;
 }
 
-.prongFourYellow__box {
+#diamondStud-misssion-2 .prongFourYellow__box {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -570,14 +570,14 @@
 }
 
 @media screen and (min-width: 768px) {
-    .prongFourYellow__box {
+    #diamondStud-misssion-2 .prongFourYellow__box {
         flex-direction: column;
         width: initial;
     }
 }
 
 @media screen and (min-width: 1200px) {
-    .prongFourYellow__box {
+    #diamondStud-misssion-2 .prongFourYellow__box {
         flex-direction: row-reverse;
         width: 80%;
         align-items: center;
@@ -585,7 +585,7 @@
     }
 }
 
-.prongFourYellow__title {
+#diamondStud-misssion-2 .prongFourYellow__title {
     font-family: URWClassico;
     font-style: normal;
     font-weight: normal;
@@ -596,7 +596,7 @@
     color: #000;
 }
 
-.prongFourYellow__subtitle {
+#diamondStud-misssion-2 .prongFourYellow__subtitle {
     font-family: Avenir;
     font-style: normal;
     font-weight: normal;
@@ -611,34 +611,34 @@
     color: #000;
 }
 
-.prongFourYellow__box-text {
+#diamondStud-misssion-2 .prongFourYellow__box-text {
     width: 65%;
 }
 
 @media screen and (min-width: 768px) {
-    .prongFourYellow__box-text {
+    #diamondStud-misssion-2 .prongFourYellow__box-text {
         padding-bottom: 30px;
     }
 }
 
 
-.prongFourYellow__box-hover-img {
+#diamondStud-misssion-2 .prongFourYellow__box-hover-img {
     max-width: 320px;
 }
 
-.prongFourYellow__box-hover {
+#diamondStud-misssion-2 .prongFourYellow__box-hover {
     display: none;
     position: absolute;
     top: -345px;
     box-shadow: 0px -12px 20px 20px rgb(0, 0, 0, 0.02)
 }
 
-.prongFourYellow__list-item:hover .prongFourYellow__box-hover {
+#diamondStud-misssion-2 .prongFourYellow__list-item:hover .prongFourYellow__box-hover {
     display: block;
 }
 
 
-.prongFourYellow__list {
+#diamondStud-misssion-2 .prongFourYellow__list {
     list-style: none;
     display: flex;
     justify-content: end;
@@ -648,12 +648,12 @@
 }
 
 @media screen and (min-width: 1200px) {
-    .prongFourYellow__list {
+    #diamondStud-misssion-2 .prongFourYellow__list {
         max-width: 60%;
     }
 }
 
-.prongFourYellow__list-item {
+#diamondStud-misssion-2 .prongFourYellow__list-item {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -662,8 +662,8 @@
     padding: 10px;
 }
 
-.prongFourYellow__list-price,
-.prongFourYellow__list-title {
+#diamondStud-misssion-2 .prongFourYellow__list-price,
+#diamondStud-misssion-2 .prongFourYellow__list-title {
     font-family: Avenir;
     font-style: normal;
     font-weight: normal;
@@ -676,52 +676,52 @@
 /* fim prong four yellow */
 /* init prong princess */
 
-.prongFourPrincess {
+#diamondStud-misssion-2 .prongFourPrincess {
     background-color: #fff;
 }
 
-.prongFourPrincess__container {
+#diamondStud-misssion-2 .prongFourPrincess__container {
     display: flex;
     flex-direction: column;
     position: relative;
 }
 
 @media screen and (min-width: 768px) {
-    .prongFourPrincess__container {
+    #diamondStud-misssion-2 .prongFourPrincess__container {
         display: flex;
         flex-direction: row;
         justify-content: center;
     }
 }
 
-.prongFourPrincess__wrapper {
+#diamondStud-misssion-2 .prongFourPrincess__wrapper {
     border-top: 0.5px solid #C1C1C1;
 }
 
 @media screen and (min-width: 1200px) {
-    .prongFourPrincess__wrapper {
+    #diamondStud-misssion-2 .prongFourPrincess__wrapper {
         max-width: 949px;
         margin: 0 auto;
     }
 }
 
-.prongFourPrincess__link {
+#diamondStud-misssion-2 .prongFourPrincess__link {
     height: 100%;
     width: 100%;
     position: absolute;
     left: 0;
 }
 
-.prongFourPrincess__img img {
+#diamondStud-misssion-2 .prongFourPrincess__img img {
     max-width: 100%;
     padding: 10px;
 }
 
-.prongFourPrincess__img.prongFourPrincess__img--low-price img {
+#diamondStud-misssion-2 .prongFourPrincess__img.prongFourPrincess__img--low-price img {
     max-width: initial;
 }
 
-.prongFourPrincess__box {
+#diamondStud-misssion-2 .prongFourPrincess__box {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -729,19 +729,19 @@
 }
 
 @media screen and (min-width: 768px) {
-    .prongFourPrincess__box {
+    #diamondStud-misssion-2 .prongFourPrincess__box {
         flex-direction: column;
         width: 50%;
     }
 }
 
 @media screen and (min-width: 1200px) {
-    .prongFourPrincess__box {
+    #diamondStud-misssion-2 .prongFourPrincess__box {
         flex-direction: row;
     }
 }
 
-.prongFourPrincess__title {
+#diamondStud-misssion-2 .prongFourPrincess__title {
     font-family: URWClassico;
     font-style: normal;
     font-weight: normal;
@@ -752,7 +752,7 @@
     color: #000;
 }
 
-.prongFourPrincess__subtitle {
+#diamondStud-misssion-2 .prongFourPrincess__subtitle {
     font-family: Avenir;
     font-style: normal;
     font-weight: normal;
@@ -767,33 +767,33 @@
     color: #000;
 }
 
-.prongFourPrincess__box-text {
+#diamondStud-misssion-2 .prongFourPrincess__box-text {
     width: 65%;
 }
 
 @media screen and (min-width: 768px) {
-    .prongFourPrincess__box-text {
+    #diamondStud-misssion-2 .prongFourPrincess__box-text {
         padding-bottom: 30px;
     }
 }
 
 
-.prongFourPrincess__box-hover-img {
+#diamondStud-misssion-2 .prongFourPrincess__box-hover-img {
     max-width: 320px;
 }
 
-.prongFourPrincess__box-hover {
+#diamondStud-misssion-2 .prongFourPrincess__box-hover {
     display: none;
     position: absolute;
     top: -360px;
     box-shadow: 0px -12px 20px 20px rgb(0, 0, 0, 0.04)
 }
 
-.prongFourPrincess__list-item:hover .prongFourPrincess__box-hover {
+#diamondStud-misssion-2 .prongFourPrincess__list-item:hover .prongFourPrincess__box-hover {
     display: block;
 }
 
-.prongFourPrincess__list {
+#diamondStud-misssion-2 .prongFourPrincess__list {
     padding: 0;
     list-style: none;
     display: flex;
@@ -804,12 +804,12 @@
 }
 
 @media screen and (min-width: 1200px) {
-    .prongFourPrincess__list {
+    #diamondStud-misssion-2 .prongFourPrincess__list {
         max-width: 60%;
     }
 }
 
-.prongFourPrincess__list-item {
+#diamondStud-misssion-2 .prongFourPrincess__list-item {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -819,8 +819,8 @@
     padding: 8px;
 }
 
-.prongFourPrincess__list-price,
-.prongFourPrincess__list-title {
+#diamondStud-misssion-2 .prongFourPrincess__list-price,
+#diamondStud-misssion-2 .prongFourPrincess__list-title {
     font-family: Avenir;
     font-style: normal;
     font-weight: normal;
@@ -832,24 +832,24 @@
 
 /* form */
 
-.visitOur {
+#diamondStud-misssion-2 .visitOur {
     background-color: #DBE3E5;
     padding: 40px 0;
 }
 
 @media screen and (min-width: 768px) {
-    .visitOur__wrapper {
+    #diamondStud-misssion-2 .visitOur__wrapper {
         max-width: 450px;
     }
 }
 
 @media screen and (min-width: 1200px) {
-    .visitOur__wrapper {
+    #diamondStud-misssion-2 .visitOur__wrapper {
         max-width: 540px;
     }
 }
 
-.visitOur__title {
+#diamondStud-misssion-2 .visitOur__title {
     font-family: URWClassico;
     font-style: normal;
     font-weight: normal;
@@ -861,20 +861,20 @@
 }
 
 @media screen and (min-width: 768px) {
-    .visitOur__title {
+    #diamondStud-misssion-2 .visitOur__title {
         font-size: 24px;
         line-height: 32px;
     }
 }
 
 @media screen and (min-width: 1200px) {
-    .visitOur__title {
+    #diamondStud-misssion-2 .visitOur__title {
         font-size: 26px;
         line-height: 35px;
     }
 }
 
-.visitOur__subtitle {
+#diamondStud-misssion-2 .visitOur__subtitle {
     font-family: Avenir;
     font-style: normal;
     font-weight: normal;
@@ -887,17 +887,17 @@
 }
 
 @media screen and (min-width: 768px) {
-    .visitOur__subtitle {
+    #diamondStud-misssion-2 .visitOur__subtitle {
         font-size: 16px;
         line-height: 22px;
     }
 }
 
-.visitOur__form {
+#diamondStud-misssion-2 .visitOur__form {
     margin-bottom: 0;
 }
 
-.visitOur__alert {
+#diamondStud-misssion-2 .visitOur__alert {
     font-family: Avenir;
     font-style: normal;
     font-weight: 300;
@@ -910,27 +910,27 @@
     color: #626262;
 }
 
-.visitOur__select,
-.visitOur__label,
-.visitOur__input {
+#diamondStud-misssion-2 .visitOur__select,
+#diamondStud-misssion-2 .visitOur__label,
+#diamondStud-misssion-2 .visitOur__input {
     width: 100%;
 }
 
-.visitOur__label {
+#diamondStud-misssion-2 .visitOur__label {
     margin-bottom: 20px;
 }
 
-.visitOur__select {
+#diamondStud-misssion-2 .visitOur__select {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
 }
 
-.visitOur__label.visitOur__label--select {
+#diamondStud-misssion-2 .visitOur__label.visitOur__label--select {
     position: relative;
 }
 
-.visitOur__label.visitOur__label--select:after {
+#diamondStud-misssion-2 .visitOur__label.visitOur__label--select:after {
     position: absolute;
     content: "";
     bottom: 10px;
@@ -943,11 +943,10 @@
     border-left: 3.55px solid transparent;
     border-right: 3.55px solid transparent;
     border-top: 7px solid #868686;
-
 }
 
-.visitOur__select,
-.visitOur__input {
+#diamondStud-misssion-2 .visitOur__select,
+#diamondStud-misssion-2 .visitOur__input {
     font-family: Avenir;
     font-style: normal;
     font-weight: 300;
@@ -961,13 +960,13 @@
 
 @media screen and (min-width: 768px) {
 
-    .visitOur__select,
-    .visitOur__input {
+    #diamondStud-misssion-2 .visitOur__select,
+    #diamondStud-misssion-2 .visitOur__input {
         padding: 10px 10px;
     }
 }
 
-.visitOur__btn {
+#diamondStud-misssion-2 .visitOur__btn {
     width: 100%;
     font-family: Avenir;
     font-style: normal;
@@ -984,12 +983,12 @@
     margin-top: 10px;
 }
 
-.visitOur__btn:hover {
+#diamondStud-misssion-2 .visitOur__btn:hover {
     background-color: #0067AB;
 }
 
 @media screen and (min-width: 768px) {
-    .visitOur__btn {
+    #diamondStud-misssion-2 .visitOur__btn {
         padding: 16px 0;
     }
 }
@@ -997,11 +996,11 @@
 /* fim visitOur */
 /* init infoText */
 
-.infotext {
+#diamondStud-misssion-2 .infotext {
     padding: 40px 0;
 }
 
-.infotext__title {
+#diamondStud-misssion-2 .infotext__title {
     font-family: URWClassico;
     font-style: normal;
     font-weight: normal;
@@ -1013,20 +1012,20 @@
 }
 
 @media screen and (min-width: 768px) {
-    .infotext__title {
+    #diamondStud-misssion-2 .infotext__title {
         font-size: 24px;
         line-height: 32px;
     }
 }
 
 @media screen and (min-width: 1200px) {
-    .infotext__title {
+    #diamondStud-misssion-2 .infotext__title {
         font-size: 26px;
         line-height: 35px;
     }
 }
 
-.infotext__paragraph {
+#diamondStud-misssion-2 .infotext__paragraph {
     font-family: Avenir;
     font-style: normal;
     font-weight: normal;
@@ -1039,7 +1038,7 @@
 }
 
 @media screen and (min-width: 768px) {
-    .infotext__paragraph {
+    #diamondStud-misssion-2 .infotext__paragraph {
         font-size: 16px;
         line-height: 22px;
     }
